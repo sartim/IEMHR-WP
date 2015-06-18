@@ -1,0 +1,14 @@
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\Bin\Debug\ApplicationIcon.png
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\Bin\Debug\Background.png
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\Bin\Debug\IEMHR-WP.dll
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\Bin\Debug\IEMHR-WP.pdb
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\Bin\Debug\AppManifest.xaml
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\Bin\Debug\IEMHR_WP.xap
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\App.g.i.cs
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\MainPage.g.i.cs
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\IEMHR-WP.g.resources
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\IEMHR-WP.dll
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\IEMHR-WP.pdb
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\XapCacheFile.xml
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\Registration.g.i.cs
+C:\Visual Studio Projects\IEMHR-WP\IEMHR-WP\obj\Debug\congate.g.i.cs
